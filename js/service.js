@@ -53,7 +53,7 @@ const notification = {
   title: "Notification Title To Show",
   category: "Demo Category",
   body:
-    "BODY of Notification with *markdown support* (with the exception of links & code blocks). ![Book](https://uploads.codesandbox.io/uploads/user/3284dfd1-a303-4a34-b155-878334bf1f99/hq0z-book.png)",
+    "Body of Notification with *markdown support* (with the exception of links & code blocks). ![Book](https://uploads.codesandbox.io/uploads/user/3284dfd1-a303-4a34-b155-878334bf1f99/hq0z-book.png)",
   icon: "https://openfin.co/favicon.ico",
   onClose: {
     task: "on-close",
