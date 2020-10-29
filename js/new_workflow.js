@@ -53,7 +53,7 @@ const notification = {
   title: "New Workflow Task Assigned",
   category: "Workflow",
   body:
-    "You have a **new workflow** task assigned. Click [here](https://www.pivotaltracker.com) to view.",
+    "You have a **new workflow** task assigned.",
   icon: "https://openfin.co/favicon.ico",
   onClose: {
     task: "on-close",
