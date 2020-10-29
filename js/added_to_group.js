@@ -50,10 +50,10 @@ addEventListener("notification-created", async (event) => {
 });
 
 const notification = {
-  title: "New Workflow Task Assigned",
-  category: "Workflow",
+  title: "Added to Group",
+  category: "Groups",
   body:
-    "You have a **new workflow** task assigned.",
+    "You have been added to the group '[group name]'.",
   icon: "https://openfin.co/favicon.ico",
   onClose: {
     task: "on-close",
