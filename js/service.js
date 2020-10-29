@@ -90,4 +90,4 @@ const notification = {
 setTimeout(() => {
   // simulate some data coming from a backend poll or websocket and create a notification
   create(notification);
-}, 10000);
+}, 100);
