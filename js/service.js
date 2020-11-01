@@ -25,7 +25,7 @@ taskRegistry["button1-click"] = async (event) => {
     name: "child-" + Date.now(),
     defaultWidth: 300,
     defaultHeight: 300,
-    url: window.location.origin + "/samplewindow.html",
+    url: window.location.origin + "/windows/samplewindow.html",
     frame: true,
     autoShow: true
   };
