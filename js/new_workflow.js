@@ -25,7 +25,7 @@ taskRegistry["button1-click"] = async (event) => {
     name: "child-" + Date.now(),
     defaultWidth: 300,
     defaultHeight: 300,
-    url: window.location.origin + "/windows/workflow_window.html",
+    url: window.location.origin + "/samplewindow_new_workflow.html",
     frame: true,
     autoShow: true
   };
